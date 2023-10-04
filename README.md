@@ -2,13 +2,15 @@
  
 👋 Me chamo Maria Vitória
 
-👀 Graduanda de Engenharia Ambiental (UFAM)
+👀 Graduada em Engenharia Ambiental (UFAM)
 
-🌱 Estou interessada em assuntos relacionados a área ambiental, engenharia e tecnologia
+✨ Mestranda em Engenharia Ambiental (UFSM)
+
+🌱 Estou interessada em assuntos relacionados a área de Saneamento; Recursos Hídricos e Análise de Dados Ambientais 
 
 🐍 No momento estou estudando sobre Excel e Python
 
-✨ Pronomes: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/mariavitoria999">
